@@ -1,0 +1,27 @@
+body {
+    display: block;
+    width: auto;
+}
+
+.container {
+    display: block;
+    width: auto;
+}
+
+#search {
+    width: 30%;
+    display: block;
+    margin: 0 auto;
+}
+
+#result {
+    display: block;
+    width: 30%;
+    margin: 0 auto;
+}
+
+.advice {
+    display: block;
+    margin: 5px 0;
+    border: 1px solid #000;
+}
